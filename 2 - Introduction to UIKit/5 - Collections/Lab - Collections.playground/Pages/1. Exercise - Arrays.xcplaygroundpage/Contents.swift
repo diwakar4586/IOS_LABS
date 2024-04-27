@@ -5,7 +5,7 @@
  */
 var registrationList = [String]()
 //:  Your friend Sara is the first to register for the event. Add her name to `registrationList` using the `append(_:)` method. Print the contents of the collection.
-registrationList.append("Ashu Sharma")
+registrationList.append("Diwakar")
 print(registrationList)
 registrationList+=["Sara", "Raj", "Abhinav", "Rahul"]
 //:  Use the `insert(_:at:)` method to add `Charlie` into the array as the second element. Print the contents of the collection.
