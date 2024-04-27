@@ -21,7 +21,7 @@ print(introduction)
  
  Insert `name` where indicated, and insert a mathematical expression that evaluates to your current age plus one where indicated.
  */
-let name = "Ashu"
+let name = "Diwakar"
 let age = 21
 print("My name is \(name) and after my next birthday I will be \(age) years old.")
 /*:
